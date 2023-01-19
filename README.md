@@ -34,7 +34,7 @@ According to the instructions within the challenge, the graphics were customized
 
 Horizontal Bar graph
 
-![image](
+![image](https://github.com/RodrigoCR25/Belly-Botton-Biodiversity/blob/main/Horizontal%20Bar.png)
 
 Gauge chart
 
