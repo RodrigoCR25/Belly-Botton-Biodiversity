@@ -42,4 +42,5 @@ Gauge chart
 
 Bubble plot
 
-![image](
+![image](https://github.com/RodrigoCR25/Belly-Botton-Biodiversity/blob/main/Bubble%20plot.png)
+
