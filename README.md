@@ -1,5 +1,6 @@
 # Belly-Botton-Biodiversity
 
+
 I learned
 _____________________________________________________________________________________________________________________________________________________________
 
@@ -12,25 +13,30 @@ ________________________________________________________________________________
 7. How to use interactivity to enhance your visualizations.
 8. Deploy an interactive chart to GitHub Pages.
 
+
+
 Tools
-______________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________
 
 The tools used in this challenge were the following:
 
-VS Code: You will use a text editor to create and edit HTML and JavaScript files.
+1. VS Code: You will use a text editor to create and edit HTML and JavaScript files.
 
-Web browser: You will use a web browser, such as Chrome, to view, inspect, and debug your visualizations. 
+2. Web browser: You will use a web browser, such as Chrome, to view, inspect, and debug your visualizations. 
 
 We will use Chrome in our examples.
 
-Command-line interface: You will use the command-line interface to run a local server. If you're a Mac user, this means Terminal. If you're a Windows user, you'll be using Git Bash.
+3. Command-line interface: You will use the command-line interface to run a local server. If you're a Mac user, this means Terminal. If you're a Windows user, you'll be using Git Bash.
 
-GitHub: As you will deploy your final data visualization on GitHub Pages, you will need your GitHub account.
+4. GitHub: As you will deploy your final data visualization on GitHub Pages, you will need your GitHub account.
+
 
 Overview
 _____________________________________________________________________________________________________________________________________________________________
 
 Using bacterial data collected by some volunteers, the objective of this challenge is to complete a control panel with demographic information of each one of them. Specifically, volunteers can identify the top 10 bacterial species in their belly buttons.
+
+
 
 Grahps created with Plotly
 _____________________________________________________________________________________________________________________________________________________________
