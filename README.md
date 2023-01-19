@@ -34,7 +34,12 @@ According to the instructions within the challenge, the graphics were customized
 
 Horizontal Bar graph
 
+![image](
 
 Gauge chart
 
+![image](
+
 Bubble plot
+
+![image](
