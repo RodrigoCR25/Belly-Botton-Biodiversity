@@ -1,7 +1,7 @@
 # Belly-Botton-Biodiversity
 
 
-I learned
+# I learned
 _____________________________________________________________________________________________________________________________________________________________
 
 1. Create basic plots with Plotly, including bar charts, line charts, and pie charts.
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 
 
-Tools
+# Tools
 _____________________________________________________________________________________________________________________________________________________________
 
 The tools used in this challenge were the following:
@@ -31,7 +31,7 @@ We will use Chrome in our examples.
 4. GitHub: As you will deploy your final data visualization on GitHub Pages, you will need your GitHub account.
 
 
-Overview
+# Overview
 _____________________________________________________________________________________________________________________________________________________________
 
 Using bacterial data collected by some volunteers, the objective of this challenge is to complete a control panel with demographic information of each one of them. Specifically, volunteers can identify the top 10 bacterial species in their belly buttons.
